@@ -1,3 +1,6 @@
+# Sift - SacHacks III Project
+# Devpost: https://devpost.com/software/sift-sachacks-iii-project
+
 from flask import *
 import requests as r
 from requests.auth import HTTPBasicAuth
