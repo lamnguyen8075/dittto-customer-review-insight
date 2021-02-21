@@ -22,7 +22,7 @@ Each member of Team Ditto learned a bit more about machine learning, design, and
 In the future, it would be intriguing for the team to continue to push the limits of the chosen model as well as developing the actual web platform.
 
 ## Technology
-IBM Watson Natural Language Understanding: https://cloud.google.com/https://www.ibm.com/cloud/watson-natural-language-understanding
-Google Cloud Platform: https://cloud.google.com/
-Adobe XD: https://www.adobe.com/products/xd.html
-Programming Language: Python, JSON, HTML, CSS
+| IBM Watson Natural Language Understanding | https://cloud.google.com/https://www.ibm.com/cloud/watson-natural-language-understanding |
+| Google Cloud Platform | https://cloud.google.com/ |
+| Adobe XD | https://www.adobe.com/products/xd.html |
+| Programming Language | Python, JSON, HTML, CSS |
