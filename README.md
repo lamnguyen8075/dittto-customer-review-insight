@@ -26,3 +26,12 @@ In the future, it would be intriguing for the team to continue to push the limit
 - Google Cloud Platform: https://cloud.google.com/
 - Adobe XD: https://www.adobe.com/products/xd.html 
 - Programming Language: Python, JSON, HTML, CSS 
+
+## Contributors
+Developers: Isabel Abonitalla & Lam Nguyen
+UI/UX Designer: Taylor Hines & Thuy Le
+
+## Resources
+- UI: https://xd.adobe.com/view/18ab8b1a-c404-4251-82cc-45d4cc97a39b-4df8/?fullscreen
+- Presentation: https://docs.google.com/presentation/d/1kryjPRuL4EiRepL9_cQdc1CDhfAl7s3n29HMuPkdCBY/edit
+- Dataset (Yelp Review - Partially): http://34.66.185.168/yelp_review_small.json
