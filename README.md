@@ -1,5 +1,6 @@
 # dittto-customer-review-insight
 
+# SIFT
 ## Inspiration
 Team Ditto was inspired by the movement to support local businesses during the pandemic, especially the movement to support local restaurants. We understood this shift wasn't a one-size-fits-all for restaurants. Many restaurants had to suddenly depend on technology to sell their food when the best way to actually experience it was to dine in person so a customer could truly understand the vibe, energy, and soul of the food. Online reviews, especially in this digital-dependent space, can be difficult to analyze for restaurant owners. Just finding the time to be able to read what your customers are saying about you can be a challenge. That is why our team wanted to create a platform that would help small to medium-sized restaurants gain insights from online food reviews more efficiently using the example from right in Sacramento's back yard.
 
