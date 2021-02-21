@@ -28,8 +28,8 @@ In the future, it would be intriguing for the team to continue to push the limit
 - Programming Language: Python, JSON, HTML, CSS 
 
 ## Contributors
-Developers: Isabel Abonitalla & Lam Nguyen
-UI/UX Designer: Taylor Hines & Thuy Le
+- Developers: Isabel Abonitalla & Lam Nguyen
+- UI/UX Designer: Taylor Hines & Thuy Le
 
 ## Resources
 - UI: https://xd.adobe.com/view/18ab8b1a-c404-4251-82cc-45d4cc97a39b-4df8/?fullscreen
